@@ -4,60 +4,44 @@
 
 **Research Topic:** India's Semiconductor Mission and the Growth of India's Chip Industry
 
+**Research Cut-off:** 18 October 2026
+
 ### Project Objective
-To demonstrate how multiple AI tools can be combined for semiconductor research, source verification, AI-output comparison, evidence-based report writing, and visual presentation.
+
+To demonstrate how multiple AI tools can be combined to produce an evidence-based research report through independent research, AI-output comparison, source verification, hallucination analysis, content creation, visual presentation, and evidence tracking.
 
 ### Research Questions
+
 1. What are the main objectives, policies, and incentives of India's Semiconductor Mission?
-2. What semiconductor manufacturing, packaging, testing, and chip-design projects have been announced or developed in India?
+2. What semiconductor manufacturing, assembly, testing, packaging, and chip-design projects have been announced or developed in India?
 3. What opportunities, challenges, and risks affect India's ambition to become a semiconductor hub?
 
 ### Four AI Tools Used
 
-| AI Tool | Role |
+| AI Tool | Role in the Project |
 |---|---|
-| Perplexity | Independent research and source discovery |
-| Gemini | Independent research and comparison |
-| NotebookLM | Official-source-grounded analysis |
-| ChatGPT | Prompt engineering, verification organization, synthesis, and report drafting |
+| **Perplexity** | Independent semiconductor research and source discovery |
+| **Gemini** | Second independent research output and comparison |
+| **NotebookLM** | Source-grounded analysis using selected official government materials |
+| **ChatGPT** | Prompt engineering, comparison organization, synthesis, report drafting, and presentation content |
 
-### Six VAC Skills Applied
+AI-generated responses were treated as research inputs, not as final factual authorities.
 
-1. Topic 2 — Prompt Engineering
-2. Topic 3 — AI Content Creation
-3. Topic 4 — AI Research and Synthesis
-4. Topic 5 — AI Visuals and Charts
-5. Topic 6 — AI Presentation Creation
-6. Topic 7 — Automation and Workflow (source-log workflow; demonstration evidence pending)
+### Six VAC Syllabus Skills Applied
+
+The project incorporates the following six skills from the Value Added Course syllabus.
+
+| VAC Topic | AI Skill | How It Was Applied in SemiResearch AI |
+|---|---|---|
+| **Topic 2** | Prompt Engineering | Designed structured prompts requiring research questions, citations, dates, investment figures, project status, and uncertainty identification |
+| **Topic 3** | AI Content Creation | Used AI-assisted synthesis to prepare research summaries, findings, and the Word research report |
+| **Topic 4** | AI Research and Synthesis | Combined Perplexity and Gemini research with NotebookLM analysis grounded in selected official sources |
+| **Topic 5** | AI Visuals and Charts | Developed semiconductor project-distribution and commercial-progress charts to communicate research findings |
+| **Topic 6** | AI Presentation Creation | Prepared a seven-slide executive PowerPoint presentation summarizing the research |
+| **Topic 7** | Automation and Workflow | Organized evidence in an Excel source log; a formula-based verification summary was prepared in a separate expanded workbook, with live demonstration pending |
+
+**Note:** The six skills are documented as project activities. Completion of the automation demonstration is not independently established by the currently uploaded basic source log.
 
 ### Research Methodology
-Structured Prompts → Perplexity and Gemini Research → NotebookLM Grounding → Cross-Tool Comparison → Official-Source Verification → Error Classification → Human Review → Final Report and Presentation.
 
-### AI Comparison and Verification Examples
-
-| Research Issue | Treatment |
-|---|---|
-| Suchi and CDIL project status | Earlier approved status updated using later official information |
-| Three versus five operational units | Classified as a time-sensitive discrepancy |
-| 3D Glass investment figure | Earlier approximate claim corrected using the reported official figure |
-| SiCSem investment information | Incomplete claim updated using the reported official figure |
-| Tata Dholera production target | Insufficiently supported production date excluded |
-
-These examples are documented in the report. Original AI responses are not included in this repository.
-
-### Project Deliverables
-- **Research Report:** 8-page Word document containing methodology, research findings, charts, AI comparison, risks, and references.
-- **Executive Presentation:** 7-slide PowerPoint summarizing the research.
-- **Source Log:** Excel workbook recording research sources and evidence-related information.
-
-### Research Sources
-- India Semiconductor Mission — https://ism.gov.in/
-- Press Information Bureau — Government of India, including the releases referenced in the research report.
-
-### Responsible AI and Limitations
-AI-generated claims were evaluated against selected official sources. Project statuses and investment figures may change over time. The study uses a research cut-off of 18 October 2026. Some individual claims require additional source-level verification.
-
-### Conclusion
-India's semiconductor ecosystem is progressing through policy support, design initiatives, manufacturing investments, and packaging projects. The capstone demonstrates the importance of comparing AI outputs and checking factual claims against original evidence before drawing conclusions.
-
-**Course:** Value Added Course (VAC) — Capstone 12
+1. Define three
